@@ -205,4 +205,24 @@ main {
     height: 700px;
     width: 90vw;
     position: absolute;
+    padding: 12% 20%;
+}
+
+.learn {
+    font-size: 5rem;
+    margin-bottom: 10px;
+}
+
+.pic3 {
+    margin-top: 25px;
+}
+
+
+/* .inner-image {} */
+
+.pic4 {
+    width: 650px;
+    height: 525x;
+    margin-left: 529px;
+    margin-top: -194px;
 }
